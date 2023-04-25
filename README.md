@@ -1,4 +1,4 @@
-# OasisInfobytes Ineternship Leve 1 Task 2
+# OasisInfobytes Web Development and Design Internship Leve 1 Task 2
 
 Portfolio Website
 
